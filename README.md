@@ -21,8 +21,8 @@ A React Native (pure CLI) app to display and refresh random anime content cards,
 ## Setup
 
 ```bash
-git clone <your-repo-or-folder>
-cd AnimeCardApp
+git clone https://github.com/lalitnagwan/LobbTask.git
+cd LobbTask
 npm install
 ```
 

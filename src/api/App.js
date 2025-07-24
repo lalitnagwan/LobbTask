@@ -6,7 +6,7 @@ import Loader from '../components/Loader';
 import ErrorView from '../components/ErrorView';
 import { colors } from './theme';
 
-const EMAIL = "lalitnagwan0@gmail.com"; // CHANGE THIS to your email for real use.
+const EMAIL = "lalitnagwan0@gmail.com";
 
 const App = () => {
   const [token, setToken] = useState(null);
